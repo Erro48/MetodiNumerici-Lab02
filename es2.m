@@ -2,7 +2,7 @@ clc;
 clear all;
 
 format rat
-x = 2^52;   % numero di F
+x = 2^52   % numero di F
 x+1         % numero di F
 x+2         % numero di F
 x+0.5       % non è numero di F
