@@ -1,5 +1,5 @@
-clear all
-clc
+clear all;
+clc;
 
 format long e
 
